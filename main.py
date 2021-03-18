@@ -191,7 +191,7 @@ if __name__ == "__main__":
             "H2",
             "H4",
             "H5",
-			"K5",
+            "K5",
             "L3",
             "L5",
             "N1",
@@ -214,4 +214,4 @@ if __name__ == "__main__":
         ],
         "Requiem": []
     }
-    app.print_list_relics_values(relic_dict)
+    # app.print_list_relics_values(relic_dict)
